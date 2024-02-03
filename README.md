@@ -15,7 +15,7 @@ This Python script captures and displays a live stream from an Android camera us
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shivaniindoria/android-camera-stream.git
+   git clone https://github.com/shivaniindoria/connect-android-camera-to-opencv-python.git
    cd android-camera-stream
    ```
 
@@ -33,7 +33,7 @@ This Python script captures and displays a live stream from an Android camera us
 
 5. Run the script:
    ```bash
-   python android_camera_stream.py
+   python connect_android_camera_to_opencv_python.py
    ```
 
 Press the 'Esc' key to exit the stream.
