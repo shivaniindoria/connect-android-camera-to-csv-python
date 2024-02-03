@@ -23,10 +23,15 @@ This Python script captures and displays a live stream from an Android camera us
    ```bash
    pip install -r requirements.txt
    ```
+3. Download and install **IP Webcam** application on your mobile phone.  
+     - Then make sure your PC and Phone both are connected to the same network.  
+     - Open your IP Webcam application on your both, click “**Start Server**” (usually found under top three lines).  
+     - This will open a camera on your Phone.  
+     - A URL is being displayed on the Phone screen, use the same `url` in your Code.  
 
-3. Replace the `url` variable in the script with the correct URL for your Android camera.
+4. Replace the `url` variable in the script with the correct URL for your Android camera.
 
-4. Run the script:
+5. Run the script:
    ```bash
    python android_camera_stream.py
    ```
